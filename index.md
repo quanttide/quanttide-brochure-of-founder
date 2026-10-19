@@ -6,4 +6,4 @@
 
 ## 目录
 
-- 待补充。
+- [code/clarify.md](./code/clarify.md)：把「不对劲」说清楚——澄清意图的对外口径与话术。

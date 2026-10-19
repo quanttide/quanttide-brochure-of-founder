@@ -8,6 +8,9 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
+    - title: 代码
+      children:
+        - file: code/clarify.md
 site:
   template: book-theme
   options:
