@@ -10,7 +10,6 @@ project:
     - file: index.md
     - title: 代码
       children:
-        - file: code/clarify.md
 site:
   template: book-theme
   options:

@@ -12,5 +12,8 @@
 
 ### 新增
 
-- `code/clarify.md`：把「不对劲」说清楚——澄清意图的对外口径与话术（分层对象、30 秒版、三个时刻、与 memory/模板库/改 prompt 的对比、诚实前提、三个避免说法与验证性问题）
 - 初始化宣传册仓库：`README.md`、`index.md`（入口，待补充）、`myst.yml`
+
+### 移除
+
+- `code/clarify.md`：删除——工具对外口径随命令与定位调整，本篇不再维护；`index.md`、`README.md`、`myst.yml` 同步移除链接，本仓暂无收录
