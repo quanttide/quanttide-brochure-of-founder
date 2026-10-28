@@ -9,6 +9,7 @@ project:
   toc:
     - file: index.md
     - file: qtgame-war/index.md
+    - file: qtclass/course.md
     - title: 代码
       children:
 site:
