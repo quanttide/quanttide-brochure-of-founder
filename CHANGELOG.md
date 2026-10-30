@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### Removed
+
+- `qtgame-war/index.md`（迷雾中的司令部对外宣传页）迁出为独立仓 `quanttide-brochure-of-war-gaming`；index、README 与 `myst.yml` 目录同步
+
 ### 新增
 
 - 新增 `qtclass/course.md`：QtClass 课程台阶的对外宣传页——一句话、先实践后理论的理由、台阶参照与诚实边界；内容自 `data/context` 的 qtclass 课程笔记迁入并改写体例。
