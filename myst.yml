@@ -9,8 +9,6 @@ project:
   toc:
     - file: index.md
     - file: qtclass/course.md
-    - title: 代码
-      children:
 site:
   template: book-theme
   options:
