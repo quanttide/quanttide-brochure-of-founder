@@ -9,6 +9,7 @@ project:
   toc:
     - file: index.md
     - file: qtclass/course.md
+    - file: default/why-gtd-with-okr.md
 site:
   template: book-theme
   options:
